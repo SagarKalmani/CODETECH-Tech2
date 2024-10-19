@@ -1,9 +1,9 @@
-Name:SAGAR KALMANI 
-Company:CODETECH SOLUTIONS 
-ID:CTO8DS8899 
-Domain:Data Analysis 
-Duration:October 5th to November 5th 
-Mentor:Neela Santhosh Kumar 
+Name:SAGAR KALMANI   
+Company:CODETECH SOLUTIONS    
+ID:CTO8DS8899    
+Domain:Data Analysis    
+Duration:October 5th to November 5th    
+Mentor:Neela Santhosh Kumar    
 ##OUTPUT##
 ![Screenshot 2024-10-19 112109](https://github.com/user-attachments/assets/08a2370c-2321-461b-8134-f1c320a6daf5)
 🌟 **Excited to share my latest project!** 🌟
