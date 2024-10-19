@@ -1,7 +1,7 @@
 Name:SAGAR KALMANI   
 Company:CODETECH SOLUTIONS    
 ID:CTO8DS8899    
-Domain:Data Analysis    
+Domain:POWER BI  
 Duration:October 5th to November 5th    
 Mentor:Neela Santhosh Kumar    
 ##OUTPUT##
